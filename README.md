@@ -13,6 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paytarx&show_icons=true&locale=en" alt="paytarx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paytarx&" alt="paytarx" /></p>
-
 ![snake gif](https://github.com/paytarx/paytarx/blob/output/github-contribution-grid-snake.gif)
